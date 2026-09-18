@@ -4,11 +4,13 @@
 
 **Tên đề tài:** Thiết kế hệ thống điều khiển và giám sát thông minh cho lò sấy nông sản
 
-**Sinh viên:** [Họ và tên]
+**Sinh viên:** Đoàn Thanh Vàng
+               Nguyễn Hữu Thái
 
-**MSSV:** [Mã số sinh viên]
+**MSSV:** CNDD2311074
+          CNDD2311083
 
-**Giảng viên hướng dẫn:** [Tên giảng viên]
+**Giảng viên hướng dẫn:** Trần Trung KHánh
 
 ---
 
